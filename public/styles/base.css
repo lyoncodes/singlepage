@@ -8,8 +8,21 @@ body {
   text-align: center;
   margin: 0;
 }
+a {
+  color: #278da4;
+  text-decoration: none;
+}
+p {
+  margin-bottom: 1.25em;
+}
+.card {
+  padding: 1.5em 1em;
+  border: 1px solid #e1e1e1;
+  border-radius: 0.25em;
+}
 
 .main-content {
+  margin: 2em auto;
   width: 95%;
   max-width: 1000px;
 
