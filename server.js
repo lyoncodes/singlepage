@@ -11,7 +11,7 @@ const PORT = 3000;
 
 // View Engine
 app.set('view engine', 'ejs');
-app.use(express.static('./public'));
+app.use(express.static('public'));
 
 app.get('/', home);
 
