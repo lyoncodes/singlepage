@@ -8,6 +8,10 @@ body {
   text-align: center;
   margin: 0;
 }
+h3 {
+  color: #29cdcd;
+  font-size: 28px;
+}
 a {
   color: #278da4;
   text-decoration: none;
@@ -20,7 +24,32 @@ p {
   border: 1px solid #e1e1e1;
   border-radius: 0.25em;
 }
-
+.card h1 {
+  font-family: 'Bree Serif', serif;
+  color: #29cdcd;
+  margin: 0;
+  line-height: 1.25;
+}
+.btn {
+  font-size: 0.85em;
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 0.75em 1.5em;
+  background-color: #39cdcd;
+  border-radius: 0.35em;
+  display: block;
+}
+.material-icons {
+  color: #39cdcd;
+  font-size: 48px;
+}
+.profilepicture {
+  margin-left: auto;
+  margin-right: auto;
+  height: 15%;
+  width: 50%;
+}
 .main-content {
   margin: 2em auto;
   width: 95%;
