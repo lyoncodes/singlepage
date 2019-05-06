@@ -1,4 +1,14 @@
 'use strict'
+/** TODO
+ * modularize ejs files and templates
+ * card templates:
+ * insta influencers
+ * bloggers
+ * uniform image sizing
+ * **/ 
+
+
+
 
 // Dependencies
 const express = require('express');
