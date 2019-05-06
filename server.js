@@ -1,14 +1,7 @@
 'use strict'
 /** TODO
- * modularize ejs files and templates
- * card templates:
- * insta influencers
- * bloggers
- * uniform image sizing
+ * jquery function to resize all images to 320 x 320
  * **/ 
-
-
-
 
 // Dependencies
 const express = require('express');
